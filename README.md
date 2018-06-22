@@ -15,20 +15,19 @@ Environment:
 The train data is augmented NYU dataset from [deep-prior-pp](https://github.com/moberweger/deep-prior-pp). We can get 
 152750 depth images, each image shape is (128, 128)
 
+![raw-1](results/raw_images/49_112978.png "title-1") ![gen-1](results/gen_images/49_112978.png "title-2")
+
 Raw depth image as follows:
 
-|                             NO.1                             |                            NO.２                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="http://ww1.sinaimg.cn/large/006zLtEmgy1fs8htzz2vmj30hs0dc74k.jpg" width="400"/> | <img src="http://ww1.sinaimg.cn/large/006zLtEmgy1fs8hsry8yyj30hs0dc3yv.jpg" width="400"/> |
-
-
+| ![raw-1](results/raw_images/49_112978.png)  | ![raw-2](results/raw_images/49_113378.png) |
+| :--------: | :-------: |
+|   NO.1     |  NO.２    |
 
 Generated depth image as follows, although I get the smoother depth images compared with raw images,this is just a note of my work. I will get it better.
 
-|                             NO.1                             |                            NO.２                             |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="http://ww1.sinaimg.cn/large/006zLtEmgy1fs8hv2me5fj30hs0dcgmt.jpg" width="400"/> | <img src="http://ww1.sinaimg.cn/large/006zLtEmgy1fs8hve3a4zj30hs0dcwg0.jpg" width="400"/> |
-
+| ![raw-1](results/gen_images/49_112978.png)  | ![raw-2](results/gen_images/49_113378.png) |
+| :--------: | :-------: |
+|   NO.1     |  NO.２    |
 
 The loss curve of generator as follows:
 
