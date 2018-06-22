@@ -15,7 +15,7 @@ Environment:
 The train data is augmented NYU dataset from [deep-prior-pp](https://github.com/moberweger/deep-prior-pp). We can get 
 152750 depth images, each image shape is (128, 128)
 
-![raw-1](results/raw_images/49_112978.png "title-1") ![gen-1](results/gen_images/49_112978.png "title-2")
+![raw-1](results/raw_images/49_112978.png "title-1")
 
 Raw depth image as follows:
 
