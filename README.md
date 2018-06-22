@@ -32,4 +32,4 @@ Generated depth image as follows, although I get the smoother depth images compa
 
 The loss curve of generator as follows:
 
-![](http://ww1.sinaimg.cn/large/006zLtEmgy1fs8hvzjecfj30m80dw3z0.jpg)
+![](results/the-loss-curve.jpg)
